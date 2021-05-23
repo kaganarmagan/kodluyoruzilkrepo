@@ -21,7 +21,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-## İmage
+## Image
 ![Projenin kod hali](image/img1.PNG)
  
 ![Projenin çalıştırılmış hali](image/img2.PNG)
