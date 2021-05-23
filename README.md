@@ -23,9 +23,9 @@ code .
 ```
 
 ## İmage
- ![Projenin kod hali](./image/img1.png)
+ ![Projenin kod hali](image/img1.png)
  
- ![Projenin çalıştırılmış hali](./image/img2.png)
+ ![Projenin çalıştırılmış hali](image/img2.png)
 
 
 
